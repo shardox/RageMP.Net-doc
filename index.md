@@ -1,4 +1,9 @@
-# This is the **HOMEPAGE**.
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-## Quick Start Notes:
-1. Add images to the *images* folder if the file is referencing an image.
+# Alternate-Life RageMP.NET
+
+This is the documentation for the Alternate-Life RageMP server bridge to add proper .NET Core support.
+
+## Starting
+
+As a general starting point look at the [IResource](api/AlternateLife.RageMP.Net.Scripting.IResource.html) and [MP](api/AlternateLife.RageMP.Net.Scripting.MP.html).
+
+## [API](api/index.md)
