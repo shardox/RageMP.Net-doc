@@ -1,4 +1,4 @@
-# Installation
+# **Installation**
 
 Before you can start using AlternateLife.RageMP.Net, you need to check following requirements:
 

@@ -1,4 +1,4 @@
-# First resource
+# **First resource**
 
 Creating your first resource, is very simple. 
 All you need is a new **.NET Core 2.1 Class library** with a reference to our NuGet package, more information below.

@@ -6,3 +6,5 @@
     href: installation.md
   - name: First resource
     href: first-resource.md
+- name: Events
+  href: events.md
