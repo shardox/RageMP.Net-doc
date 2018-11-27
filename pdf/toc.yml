@@ -1,6 +1,6 @@
 - name: Intro
   href: ../index.md
-- name: API
-  href: ../api/toc.yml
 - name: Documentation
   href: ../documentation/toc.yml
+- name: API
+  href: ../api/toc.yml
