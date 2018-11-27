@@ -9,3 +9,4 @@
 _site
 /api/AlternateLife*
 /api/.manifest
+/out_pdf/
