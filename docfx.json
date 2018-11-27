@@ -48,5 +48,39 @@
     "keepFileLink": false,
     "cleanupCacheHistory": false,
     "disableGitFeatures": false
+  },
+  "pdf": {
+    "content": [
+      {
+        "files": [
+        "api/**.yml",
+        "api/index.md"
+        ],
+        "exclude": [
+          "**/toc.yml",
+          "**/toc.md"
+        ]
+      },
+      {
+        "files": [
+          "api/toc.yml",
+          "api/index.md",
+          "toc.yml",
+          "*.md",
+          "pdf/*"
+        ]
+      },
+      {
+        "files": "pdf/toc.yml"
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "dest": "out_pdf"
   }
 }
