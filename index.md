@@ -4,6 +4,6 @@ This is the documentation for the Alternate-Life RageMP server bridge to add pro
 
 ## Starting
 
-As a general starting point look at the [IResource](api/AlternateLife.RageMP.Net.Scripting.IResource.html) and [MP](api/AlternateLife.RageMP.Net.Scripting.MP.html).
+As a general starting point look at the [IResource](api/AlternateLife.RageMP.Net.Scripting.IResource.yml) and [MP](api/AlternateLife.RageMP.Net.Scripting.MP.yml).
 
 ## [API](api/index.md)

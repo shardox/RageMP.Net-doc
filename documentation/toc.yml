@@ -1,0 +1,8 @@
+- name: Introduction
+  href: index.md
+- name: Getting started
+  items:
+  - name: Installation
+    href: installation.md
+  - name: First resource
+    href: first-resource.md

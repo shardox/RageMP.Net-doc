@@ -17,14 +17,12 @@
     "content": [
       {
         "files": [
-          "api/**.yml",
-          "api/index.md"
-        ]
-      },
-      {
-        "files": [
           "toc.yml",
-          "*.md"
+          "*.md",
+          "api/**.yml",
+          "api/index.md",
+          "documentation/toc.yml",
+          "documentation/**.md"
         ]
       }
     ],
@@ -53,8 +51,10 @@
     "content": [
       {
         "files": [
-        "api/**.yml",
-        "api/index.md"
+            "api/**.yml",
+            "api/index.md",
+            "documentation/toc.yml",
+            "documentation/**.md"
         ],
         "exclude": [
           "**/toc.yml",
