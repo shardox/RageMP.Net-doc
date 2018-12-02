@@ -16,7 +16,7 @@ To get started with AlternateLife.RageMP.Net, [look into our guide](~/documentat
 - **Is there a way to drop pure `.cs` files inside a resource folder and let the server compile it?**   
     - *No, you have to compile all projects into assemblies (`.dll`), other ways are not supported.*
 - **Does this library offer a command handler to create simple commands?**
-    - *No, you have to create your own parser that handles incoming commands. We only offer an event, so you could integrate it into your own resource.*
+    - *Yes, but in a very basic way. There are two ways to create commands: First, with command-handlers and attributes which define commands and a very simple MP.Commands.Add() method that uses a lambda function as handler.*
 - **I want to create multiple main-classes which are activated by the server, is that even possible?**   
     - *No, the server looks for the first type that implements the [IResource](api/AlternateLife.RageMP.Net.Scripting.IResource.yml) interface and activates it. You have to manage different types yourself.*
 
