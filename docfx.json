@@ -45,7 +45,16 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": false,
+    "globalMetadata": {
+      "_disableContribution": false,
+      "_enableSearch": true,
+      "_gitUrlPattern": "github",
+      "_gitContribute": {
+        "repo": "https://github.com/AlternateLife/ragemp-dotnet-core-doc",
+        "branch": "master"
+      }
+    },
   },
   "pdf": {
     "content": [
