@@ -4,7 +4,7 @@
       "src": [
         {
           "files": [
-            "ragemp-dotnet-core/src/AlternateLife.RageMP.Net/AlternateLife.RageMP.Net.csproj"
+            "RageMP.Net/src/AlternateLife.RageMP.Net/AlternateLife.RageMP.Net.csproj"
           ]
         }
       ],

@@ -7,7 +7,7 @@ Before you can start using AlternateLife.RageMP.Net, you need to check following
 - Latest [.NET Core 2.1 SDK](https://www.microsoft.com/net/download/dotnet-core/2.1) *(Last tested: 2.1.6)*
 - Latest RAGE Multiplayer serverfiles [(Download Launcher)](https://www.rage.mp)    
    - *The server files are contained in the RAGE Multiplayer installation.*
-- Latest [AlternateLife.RageMP.Net ZIP](https://github.com/AlternateLife/ragemp-dotnet-core/releases/latest)
+- Latest [AlternateLife.RageMP.Net ZIP](https://github.com/AlternateLife/RageMP.Net/releases/latest)
 
 ## Step 1
 
